@@ -1,5 +1,4 @@
-Numerical Methods
+# Numerical Methods
 
-Locating roots using iteration
+* Locating roots using iteration
 
-This is Ian's fork
